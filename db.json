@@ -1,5 +1,10 @@
 {
     "tasks": [
-      {"id": 1, "title": "Install React", "type": "Feature", "status": 0}
+      {"id": 1, "title": "Install React", "type": "Feature", "status": 0},
+      {"id": 2, "title": "Setup GitHub", "type": "Task", "status": 2},
+      {"id": 3, "title": "Invite Collaborators", "type": "Task", "status": 3},
+      {"id": 4, "title": "Install Dependencies", "type": "Task", "status": 1},
+      {"id": 5, "title": "Create App Component", "type": "Feature", "status": 1},
+      {"id": 6, "title": "Plan Component Diagram", "type": "Task", "status": 0}
     ]
 }
